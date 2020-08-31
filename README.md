@@ -2,16 +2,19 @@
 
 *200819*
 
-    데이터 타입
+    Data Types
 
 *200820*
 
-    연산자
-    조건문
-    반복문
+    Operators
+    ConditionalStatements
+    Loops
 
 *200821*
 
-    break
-    continue
-    Labeled Statements
+    ControlTransfer
+    
+*200831*
+
+    Optional
+    Functions
