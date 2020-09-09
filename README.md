@@ -45,3 +45,7 @@
 
     Propeties
     Methods And Subscripts
+
+*200909*
+
+    Inheritance
