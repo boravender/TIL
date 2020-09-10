@@ -49,3 +49,7 @@
 *200909*
 
     Inheritance
+
+*200910*
+
+    Initialization
